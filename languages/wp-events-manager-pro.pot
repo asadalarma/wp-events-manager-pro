@@ -1,0 +1,7 @@
+_(Sample placeholder – generated via `wp i18n make-pot`)_  
+```text
+msgid "Events"
+msgstr ""
+
+msgid "Event Date"
+msgstr ""
