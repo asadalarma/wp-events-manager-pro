@@ -20,7 +20,7 @@ A professional WordPress plugin to manage events with RSVP, filtering, REST API 
 ### 1️⃣ Clone or Download the Repository
 
 
-git clone https://github.com/your-username/wp-events-manager-pro.git
+git clone https://github.com/asadalarma/wp-events-manager-pro.git
 
 
 ### 2️⃣ Copy Plugin Folder
