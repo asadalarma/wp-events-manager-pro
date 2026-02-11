@@ -141,7 +141,6 @@ Create tests/test-events.php with the following content:
 
 ```php
 <?php
-<?php
 /**
  * WP Events Manager Pro Plugin Tests
  */
