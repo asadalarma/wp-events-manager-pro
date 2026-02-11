@@ -126,7 +126,13 @@ This will:
 
 Create tests/test-events.php with the following content:
 
+<?php
+class Test_Events extends WP_UnitTestCase {
 
+    public function test_event_post_type_exists() {
+        $this->assertTrue( post_type_exists('event') );
+    }
+}
 
 ### 4️⃣ Run Tests
 
