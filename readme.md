@@ -134,6 +134,7 @@ class Test_Events extends WP_UnitTestCase {
         $this->assertTrue( post_type_exists('event') );
     }
 }
+```
 
 ### 4️⃣ Run Tests
 
