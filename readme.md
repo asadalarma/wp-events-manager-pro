@@ -126,6 +126,7 @@ This will:
 
 Create tests/test-events.php with the following content:
 
+```php
 <?php
 class Test_Events extends WP_UnitTestCase {
 
